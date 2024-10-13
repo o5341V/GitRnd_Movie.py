@@ -39,6 +39,7 @@ movies = [
     "Dune",
     "Eternal Sunshine of the spotless mind",
     "Ex Machina",
+    "Eyes Wide Shut",
     "Fern Gully",
     "Fight Club",
     "Forrest Gump",
