@@ -140,6 +140,7 @@ movies = [
     "The Big Lebowski",
     "The Big Short",
     "The Book of Eli",
+    "The Butterfly Effect",
     "The Chronicles Of Narnia: The Lion, the Witch & the Wardrobe",
     "The Dark Knight",
     "The Dark Knight Rises",
